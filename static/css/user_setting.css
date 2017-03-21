@@ -1,0 +1,36 @@
+tr td:nth-child(odd){
+    text-align: right;
+}
+tr td:nth-child(even){
+    text-align: left;
+}
+input{
+    border-radius: 3px;
+    border: 1px solid gray;
+    padding: 5px;
+    width: 300px;
+}
+td{
+    padding: 5px;
+}
+.form{
+    width: 500px;
+}
+.password-change{
+    margin: 20px auto;
+}
+.box-header{
+    margin-bottom: 10px;
+}
+.selected-img{
+    width: 100px;
+    vertical-align: middle;
+}
+.preview{
+    width:200px;
+    overflow: hidden;
+}
+.img-preview{
+    margin: 5px;
+    overflow: hidden;
+}
